@@ -31,9 +31,9 @@ LICENSE file.
   </description>
 
   <scm>
-    <connection>scm:git:git://github.com/brianfrankcooper/YCSB.git</connection>
+    <connection>scm:git:git://github.com/oylumalatli/YCSB.git</connection>
     <tag>master</tag>
-    <url>https://github.com/brianfrankcooper/YCSB</url>
+    <url>https://github.com/oylumalatli/YCSB</url>
   </scm>
   <dependencyManagement>
     <dependencies>
