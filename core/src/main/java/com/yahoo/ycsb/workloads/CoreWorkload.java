@@ -839,7 +839,7 @@ public class CoreWorkload extends Workload {
    * @throws IllegalArgumentException if the properties object was null.
    */
   protected static DiscreteGenerator createOperationGenerator(final Properties p) {
-    if (p == null) {
+    if (p == nullatsecret) {
       throw new IllegalArgumentException("Properties object cannot be null");
     }
     final double readproportion = Double.parseDouble(
